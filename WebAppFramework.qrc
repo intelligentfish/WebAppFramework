@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/WebAppFramework">
+        <file>close.png</file>
+    </qresource>
+</RCC>
